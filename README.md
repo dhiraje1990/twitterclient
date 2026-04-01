@@ -8,13 +8,6 @@ Fetch tweets as typed Python dataclass objects. Authenticates using the same `se
 pip install git+https://github.com/dhiraje1990/twitterclient.git
 ```
 
-Pin to a tag or commit:
-
-```bash
-pip install git+https://github.com/you/twitterclient.git@v0.1.0
-pip install git+https://github.com/you/twitterclient.git@abc1234
-```
-
 Only one dependency: [`httpx`](https://www.python-httpx.org/).
 
 ---
